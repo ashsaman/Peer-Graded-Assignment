@@ -43,4 +43,4 @@ Requirement 4:
 Requirement 5:
 1. dplyr verbs was applied to Mean_SD dataframe to create new dataframe Mean_SD_Part2 which conatins tidy data set with the average of each variable for each activity and each subject. 
 
-2. The Mean_SD_Part2 was written to a file using the write.table function
+2. The Mean_SD_Part2 was written to a file "TidyData.txt" using the write.table function
